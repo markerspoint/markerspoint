@@ -6,11 +6,23 @@
     Currently expanding into cross-platform mobile development with <b>Dart & Flutter</b>.
   </p>
 
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/[your-linkedin-handle]">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:delacruzmarkian404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/mrkndlcrz.ide">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/[your-instagram-handle]">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/[your-discord-user-id]">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/[your-telegram-handle]">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
