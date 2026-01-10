@@ -64,6 +64,8 @@ I am a **Bachelor of Science in Information Technology (BSIT)** student with a s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markerspoint&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mark Ian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markerspoint&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markerspoint&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=markerspoint&theme=radical&hide_border=true" />
 </div>
+
