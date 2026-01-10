@@ -58,14 +58,4 @@ I am a **Bachelor of Science in Information Technology (BSIT)** student with a s
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-<br clear="all" />
-<br />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markerspoint&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=markerspoint&theme=radical&hide_border=true" />
-</div>
 
