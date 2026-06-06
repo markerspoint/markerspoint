@@ -28,7 +28,7 @@
 
 <br />
 
-I am a **Bachelor of Science in Information Technology (BSIT)** student with a strong focus on **Web Development**. I have foundational experience in native **Android** development and I am actively pivoting towards cross-platform mobile ecosystems.
+I am a **Bachelor of Science in Information Technology (BSIT)** graduate with a strong focus on **Web Development**. I have foundational experience in native **Android** development and I am actively pivoting towards cross-platform mobile ecosystems.
 <br />
 
 ## 🧰 Technical Skills
