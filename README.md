@@ -1,59 +1,28 @@
-<h1 align="center">Mark Ian D. Dela Cruz</h1>
+# Mark Ian D. Dela Cruz
 
-<p align="center">
-  <b>Full-Stack Software Developer</b> at <a href="https://rovocadevelopment.com/">Rovoca Development Co.</a><br/>
-  Laravel · React · TypeScript · Android<br/>
-  BS Information Technology graduate building real-world business systems that run on the web and on the phone.
-</p>
+Full-Stack Software Developer at **[Rovoca Development Co.](https://rovocadevelopment.com/)**, building business platforms with **Laravel**, **React** and **TypeScript** that run on the web and on mobile.
 
-<p align="center">
-  <a href="https://markiandelacruz.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mrkndlcrz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dlcrzmrkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/mrkndlcrz.ide"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/mrkn.ide/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white)](https://markiandelacruz.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkndlcrz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dlcrzmrkn@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mrkndlcrz.ide)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mrkn.ide/)
 
----
+I am a full-stack developer focused on building reliable systems that teams depend on every day. At **Rovoca Development Co.**, a construction, engineering and property development company, I develop the company's in-house operations platform, from the database and backend to the interfaces used on site and in the office.
 
-### 👷 Now: Full-Stack Developer at Rovoca Development Co.
+## 💼 Current Work
 
-*October 2026 – present · Full-time*
+**Full-Stack Software Developer** · Rovoca Development Co. · *October 2026 – Present*
 
-[Rovoca](https://rovocadevelopment.com/) is a Bacolod-based construction, engineering and property development company. I build its in-house platform with **Laravel + Inertia + React (TypeScript)**. Engineers, HR, accounting and drivers use it every day, on laptops and on phones out on site.
+- **Attendance and timekeeping:** geofenced QR and face-verified clock-ins, overtime approvals, and attendance review before payroll.
+- **Payroll:** weekly and semi-monthly payroll with statutory deductions (SSS, PhilHealth, Pag-IBIG), 13th month pay, final pay, and finalization controls.
+- **Mobile experience:** push notifications, background GPS trip tracking, and offline access for sites with weak signal.
+- **Fleet and logistics:** driver booking with road routing, live trip maps, and a fuel ledger.
+- **Operations:** daily site reports, tool and materials tracking, purchase requests, leave management, a hiring pipeline, and a client portal.
+- **Company website:** design and development of [rovocadevelopment.com](https://rovocadevelopment.com/).
 
-- **Attendance (DTR):** geofenced QR and face-check clock-ins on site, overtime approvals, and attendance reviews before payroll.
-- **Payroll:** weekly laborer and semi-monthly staff payroll with SSS, PhilHealth and Pag-IBIG deductions, 13th month pay, final pay, and a lock once payroll is finalized.
-- **Android app (Capacitor):** push notifications, background GPS trip recording, and offline pages for sites with weak signal.
-- **Driver booking:** a Grab-style booking flow with road routes, live trip maps and driver status.
-- **Operations:** daily site reports, tool tracking, a materials and fuel ledger, purchase requests, leave, a hiring pipeline, and a client portal.
-- **Company website:** the public site at [rovocadevelopment.com](https://rovocadevelopment.com/).
-
-### 🧰 Tech I use
-
-**Daily**
+## 🧰 Technical Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,tailwind,mysql,vite,androidstudio,firebase,git,github,linux,vscode&perline=13" alt="Current stack"/>
-</p>
-
-Laravel · Inertia.js · React · TypeScript · Tailwind CSS · shadcn/ui · Pest · PHPStan · MySQL/MariaDB · Capacitor · MapLibre · Firebase Cloud Messaging
-
-**Also worked with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,android,flutter,dart,js,python,nodejs,html,css,bootstrap&perline=11" alt="Other skills"/>
-</p>
-
-### 🎯 Focus
-
-- Building systems people actually use at work, not just demos
-- Making web apps feel native on a phone, including offline use
-- Clean, tested code: feature tests, static analysis, CI
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=markerspoint&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markerspoint&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,mysql,vite,nodejs,python,java,kotlin,android,flutter,dart,firebase,html,css,bootstrap,git,github,linux,vscode&perline=12" alt="Technical skills"/>
 </p>
