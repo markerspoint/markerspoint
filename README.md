@@ -1,61 +1,59 @@
-<div>
-  <h1>Mark Ian D. Dela Cruz</h1>
-  <p>
-    Building responsive web solutions with a background in Android development.
-    <br/>
-    Currently expanding into cross-platform mobile development with <b>Dart & Flutter</b>.
-  </p>
+<h1 align="center">Mark Ian D. Dela Cruz</h1>
 
-<a href="https://linkedin.com/in/[your-linkedin-handle]">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:delacruzmarkian404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/mrkndlcrz.ide">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/[your-instagram-handle]">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/[your-discord-user-id]">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://t.me/[your-telegram-handle]">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+<p align="center">
+  <b>Full-Stack Software Developer</b> at <a href="https://rovocadevelopment.com/">Rovoca Development Co.</a><br/>
+  Laravel · React · TypeScript · Android<br/>
+  BS Information Technology graduate building real-world business systems that run on the web and on the phone.
+</p>
 
-<br />
+<p align="center">
+  <a href="https://markiandelacruz.com/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mrkndlcrz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dlcrzmrkn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.facebook.com/mrkndlcrz.ide"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/mrkn.ide/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-I am a **Bachelor of Science in Information Technology (BSIT)** graduate with a strong focus on **Web Development**. I have foundational experience in native **Android** development and I am actively pivoting towards cross-platform mobile ecosystems.
-<br />
+---
 
-## 🧰 Technical Skills
+### 👷 Now: Full-Stack Developer at Rovoca Development Co.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+*October 2026 – present · Full-time*
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+[Rovoca](https://rovocadevelopment.com/) is a Bacolod-based construction, engineering and property development company. I build its in-house platform with **Laravel + Inertia + React (TypeScript)**. Engineers, HR, accounting and drivers use it every day, on laptops and on phones out on site.
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+- **Attendance (DTR):** geofenced QR and face-check clock-ins on site, overtime approvals, and attendance reviews before payroll.
+- **Payroll:** weekly laborer and semi-monthly staff payroll with SSS, PhilHealth and Pag-IBIG deductions, 13th month pay, final pay, and a lock once payroll is finalized.
+- **Android app (Capacitor):** push notifications, background GPS trip recording, and offline pages for sites with weak signal.
+- **Driver booking:** a Grab-style booking flow with road routes, live trip maps and driver status.
+- **Operations:** daily site reports, tool tracking, a materials and fuel ledger, purchase requests, leave, a hiring pipeline, and a client portal.
+- **Company website:** the public site at [rovocadevelopment.com](https://rovocadevelopment.com/).
 
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+### 🧰 Tech I use
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+**Daily**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,tailwind,mysql,vite,androidstudio,firebase,git,github,linux,vscode&perline=13" alt="Current stack"/>
+</p>
 
+Laravel · Inertia.js · React · TypeScript · Tailwind CSS · shadcn/ui · Pest · PHPStan · MySQL/MariaDB · Capacitor · MapLibre · Firebase Cloud Messaging
+
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,android,flutter,dart,js,python,nodejs,html,css,bootstrap&perline=11" alt="Other skills"/>
+</p>
+
+### 🎯 Focus
+
+- Building systems people actually use at work, not just demos
+- Making web apps feel native on a phone, including offline use
+- Clean, tested code: feature tests, static analysis, CI
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=markerspoint&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markerspoint&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
